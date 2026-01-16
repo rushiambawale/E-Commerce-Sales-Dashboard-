@@ -120,3 +120,6 @@ Monitor year-over-year performance trends
 
 📸 Dashboard Preview
 https://github.com/rushiambawale/E-Commerce-Sales-Dashboard-/blob/main/E%20Commerce%20Sales%20Dashboard.png
+
+<img width="721" height="413" alt="E Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/a97e997f-82e0-446a-816d-e4a8591537b2" />
+
